@@ -12,4 +12,4 @@ We have worked separately on for Frontend and SmartContract coding. You can acce
 
 ## Technical Architecture
 
-<img src="https://user-images.githubusercontent.com/26596367/200183841-dfd3f334-6fca-402a-aff8-3eecbceae193.png" width=480 alt="Technical Architecture">
+<img src="https://user-images.githubusercontent.com/26596367/200183841-dfd3f334-6fca-402a-aff8-3eecbceae193.png" width=720 alt="Technical Architecture">
