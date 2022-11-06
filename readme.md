@@ -9,6 +9,7 @@ We have worked separately on for Frontend and SmartContract coding. You can acce
 * Frontend: https://github.com/knaoe/EthSF22FE
 * Smart Contract: https://github.com/y-shijo/EthSF22SC/
 
-## Overview
 
-Explanation goes here.
+## Technical Architecture
+
+<img src="https://user-images.githubusercontent.com/26596367/200183841-dfd3f334-6fca-402a-aff8-3eecbceae193.png" width=480 alt="Technical Architecture">
